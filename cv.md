@@ -19,9 +19,9 @@ My name is Ksenia. I'm 28 years old. I working as an accountant for over 10 year
 I decided to study the profession Frontend because it is interesting and exciting for me.
 ***
 ## Skills:
-1.HTML
-2.CSS
-3.VS Code
+1. HTML
+2. CSS
+3. VS Code
 ***
 
 ## Education and courses:
@@ -34,7 +34,7 @@ I decided to study the profession Frontend because it is interesting and excitin
     
 ## Languages:
     1. Russian - Native
-    2. English- Pre-Intermediate
-    ***
+    2. English - Pre Intermediate
+    
 
 

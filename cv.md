@@ -20,31 +20,21 @@ I decided to study the profession Frontend because it is interesting and excitin
 ***
 ## Skills:
 1.HTML
-
-
 2.CSS
-
-
 3.VS Code
 ***
 
 ## Education and courses:
--Belarusian Trade and Economic College:
-
-
--*Accountant*    
--Belarusian State Economic University:
-
-
--*Economist*    
--BELHARD Academy: 
-
-
--*Website development basics*
+- Belarusian Trade and Economic College:
+    - *Accountant*    
+- Belarusian State Economic University:
+    - *Economist*    
+- BELHARD Academy: 
+    - *Website development basics*
     
 ## Languages:
-    1.Russian - Native
-    2.English- Pre-Intermediate
+    1. Russian - Native
+    2. English- Pre-Intermediate
     ***
 
 
